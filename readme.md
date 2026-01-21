@@ -16,11 +16,11 @@ Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu sistema.
 
 📄 app.js: Contiene el código principal de la aplicación con la configuración de Express, middleware y rutas.
 📂 middlewares: Carpeta que contiene los middlewares para obtener la hora actual y la validación.
-  📄 horaMiddleware.js: Middleware para obtener la hora actual.
-  📄 validarHora.js: Módulo que contiene la lógica de validación de la hora.
+📄 horaMiddleware.js: Middleware para obtener la hora actual.
+📄 validarHora.js: Módulo que contiene la lógica de validación de la hora.
 📂 routes: Carpeta que contiene los módulos de rutas.
-  📄 endroute.js: Módulo de ruta para la página final.
-  📄 index.js: Módulo de ruta para la página principal.
+📄 endroute.js: Módulo de ruta para la página final.
+📄 index.js: Módulo de ruta para la página principal.
 
 ## Preparando la Aplicación:
 
